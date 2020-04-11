@@ -6,3 +6,4 @@ NekoBot, based on Coolq, is personally used QQ Bot.
 
 Crafted with love by EndCat
 
+自用型qq机器人
